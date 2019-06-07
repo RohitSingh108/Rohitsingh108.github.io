@@ -1,0 +1,45 @@
+body{
+    background: url(image/blog1.jpg);
+    background-size: cover;
+    background-position:top center;
+  }
+
+
+  .container .btn1 {
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    background-color: black;
+    color:white;
+    font-size: 20px;
+    padding: 16px 30px;
+   
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  .container .btn1:hover {
+    background-color: rgb(255, 254, 254);
+    color: rgb(0, 0, 0);
+  }
+
+  
+  .container .btn2 {
+    position: absolute;
+    top: 40%;
+    left: 60%;
+    background-color: black;
+    color:white;
+    font-size: 20px;
+    padding: 16px 30px;
+   
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  .container .btn2:hover {
+    background-color: rgb(255, 254, 254);
+    color: rgb(0, 0, 0);
+  }
+
+ 

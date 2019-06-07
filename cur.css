@@ -1,0 +1,15 @@
+body{
+  
+  background: url(image/bgcir.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.scrollClass {
+  height:300px;
+  overflow-y: scroll;
+}
+
+h2,h4{
+  font-weight: bold;
+}
